@@ -25,3 +25,6 @@ This project focuses on pandas library usage and simple statistics methods to pe
 * new_york_city.csv.
 * washington.csv Note: This CSV file does not include the 'Gender' or 'Birth Year' data.
 
+# Requirements:
+
+This program was written in Python (version 3.7.1)
