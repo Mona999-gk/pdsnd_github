@@ -1,15 +1,24 @@
-### Date created
-Include the date you created this project and README file.
+# Basic Data Exploration with pandas on Bikeshare Data
+_Basic Udacity 2nd project using pandas library in Python for their bikeshare data._
 
-### Project Title
-Replace the Project Title
+# Project Overview:
+This project focuses on pandas library usage and simple statistics methods to perform a rudimentary analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display some required information and statistics e.g.
+* Most popular month
+* Most popular day
+* Most popular hour
+* Most popular start station
+* Most popular end station
+* Most popular combination of start and end stations
+* Total trip duration
+* Average trip duration
+* Types of users by number
+* Types of users by gender (if available)
+* The oldest user (if available)
+* The youngest user (if available)
+* The most common birth year amongst users (if available)
 
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+# Project Data (provided by Udacity):
+* chicago.csv.
+* new_york_city.csv.
+* washington.csv Note: This CSV file does not include the 'Gender' or 'Birth Year' data.
 
